@@ -1,0 +1,14 @@
+# Exclude Linux hidden files
+.*
+!/.gitignore
+
+# Exclude YANG files
+*.yang
+
+# Exclude virtual environments
+venv/
+.env/
+oss_demo_virtualenv/
+
+# Exclude log files
+*.log
