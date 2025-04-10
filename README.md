@@ -1,11 +1,10 @@
 # Data Networks Neutrality with OpenConfig 🧙🏼‍♂️⚙️
 ## Open Source Summit Europe 2024 🐧🇪🇺🇦🇹
 
-<p align="center">
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/made-with-python.svg" /></a>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/built-with-love.svg" /></a>
-  <a href="https://forthebadge.com"><img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" /></a>
-</p>
+[![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python)]()
+[![OSS2024](https://img.shields.io/badge/OSS-2024-purple?style=flat&logo=linux)](https://www.ciscolive.com/emea/learn/session-catalog.html?search=devnet-2224&search=devnet-2224#/)
+[![Linkedin: asandovalros](https://img.shields.io/badge/Howdy!-LinkedIn-blue?style=flat)](https://www.linkedin.com/in/asandovalros)
+---
 
 ### Nice to see you! ☕
 And **thank you!** for having attended [my session at this year's summit](https://events.linuxfoundation.org/open-source-summit-europe/program/schedule/). I hope that you enjoyed it and found it useful for your day-to-day network management, or even any side project or certification prep.
